@@ -6,10 +6,10 @@ Backend & full-stack engineer with 11+ years of experience. I build reliable bac
 
 ### What I work with
 
-**Backend:** Java, Spring Boot, NestJS, Node.js, REST APIs, microservices, Socket.IO
-**Frontend:** TypeScript, Next.js, Angular
-**Data & infra:** PostgreSQL, MongoDB, Redis, BullMQ, Docker, Kubernetes, Azure
-**Practices:** clean/hexagonal architecture, automated testing, CI/CD, code review
+- **Backend:** Java, Spring Boot, NestJS, Node.js, REST APIs, microservices, Socket.IO
+- **Frontend:** TypeScript, Next.js, Angular
+- **Data & infra:** PostgreSQL, MongoDB, Redis, BullMQ, Docker, Kubernetes, Azure
+- **Practices:** clean/hexagonal architecture, automated testing, CI/CD, code review
 
 ### Featured projects
 
